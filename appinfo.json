@@ -1,0 +1,50 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Marwan Zogheib",
+    "longName": "Savanna",
+    "projectType": "native",
+    "resources": {
+        "media": [
+	          {
+								"file": "images/menu.png",
+	              "menuIcon": true,
+	              "name": "IMAGE_MENU",
+	              "type": "png"
+	          },
+						{
+							
+                "file": "images/Giraffe.png",
+                "name": "IMAGE_GIRAFFE",
+                "type": "png"
+            },
+            {
+                "file": "images/Leopard.png",
+                "name": "IMAGE_LEOPARD",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Genica-One.otf",
+                "name": "FONT_CUSTOM_40",
+                "type": "font"
+            },
+            {
+                "file": "images/Zebra.png",
+                "name": "IMAGE_ZEBRA",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Savanna",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "732eacb0-4dac-427d-b9f0-304b981ff6b3",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
